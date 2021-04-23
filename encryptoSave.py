@@ -6,10 +6,6 @@ from itsdangerous import URLSafeSerializer
 import os
 import sys
 
-"""
-Here you need to make a .env file and write (export encryptkey1="{random letters and numbers here}")
-"""
-
 key1 = ""
 
 #sets the key from another file
