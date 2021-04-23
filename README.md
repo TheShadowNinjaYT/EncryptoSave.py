@@ -5,4 +5,4 @@ Requires itsdangerous (Win: pip install itsdangerous | Lin: python3 -m pip insta
 
 Simply add the 'encryptoSave.py' file to your project's directory and import it as a module
 
-Requires configuration inside the file to save the right data
+No Internal Config Required!
