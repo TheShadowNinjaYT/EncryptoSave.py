@@ -1,5 +1,5 @@
 """
-WELCOME TO ENCRYPTOSAVE. QUICK AND EASY SAVE/LOAD FOR PYTHON GAMES!
+EncryptoSave: Fast Loading At Your Fingertips!
 """
 
 from itsdangerous import URLSafeSerializer
