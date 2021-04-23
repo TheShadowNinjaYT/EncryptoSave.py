@@ -1,5 +1,5 @@
 """
-EncryptoSave: Fast Loading At Your Fingertips!
+EncryptoSave: Fast Loading At Your Fingertips! (GIT REPO: https://github.com/TheShadowNinjaYT/EncryptoSave.py)
 """
 
 from itsdangerous import URLSafeSerializer
