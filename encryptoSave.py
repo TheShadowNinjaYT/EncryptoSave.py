@@ -65,7 +65,7 @@ def load(player):
 
             #here you need to retrieve any variables you have saved
 
-            player.xp = savedData['xp']
+            player.variables = savedData
 
   else:
 
