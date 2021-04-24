@@ -63,7 +63,7 @@ def load(player):
 
             savedData = decrypt(f.read())
 
-            #here you need to retrieve any variables you have saved
+            #here it will retrieve any variables you have saved
 
             player.variables = savedData
 
