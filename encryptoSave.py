@@ -33,7 +33,7 @@ class player():
 
   def __init__(self):
 
-     #example variables
+     #Don't touch this! It is required to track all data!
      self.variables = {
        
      }
