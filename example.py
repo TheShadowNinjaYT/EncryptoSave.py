@@ -1,7 +1,6 @@
 #this is the example file which demonstrates some basic functionality
 
 import encryptoSave
-import random
 
 p = encryptoSave.player()
 
